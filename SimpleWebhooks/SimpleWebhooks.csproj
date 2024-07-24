@@ -86,6 +86,8 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DiscordSender.cs" />
+    <Compile Include="DiscordSenderMessage.cs" />
     <Compile Include="Embeds\DiscordEmbed.cs" />
     <Compile Include="Embeds\DiscordEmbedAuthor.cs" />
     <Compile Include="DiscordMessage.cs" />
